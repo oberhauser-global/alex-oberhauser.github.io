@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: alex-oberhauser.com
+Token: c08ff8d9392395c9464296ee7c2a15efebeb1f9b5aa2b387450c04c750bd3ada
